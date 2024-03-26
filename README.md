@@ -7,16 +7,9 @@ Aplicação desenvolvida como desafio para responder um cronograma de estudos.
 >Quiz do Cronograma de Estudos Notion
 
 
-
 ![preview](./.github/cover.png)
 
 
-
-<br>
-
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/cover.png" width="80%">
-</p>
 
 ## 💻 Projeto
 
