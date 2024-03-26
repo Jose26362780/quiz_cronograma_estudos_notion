@@ -1,14 +1,14 @@
-
-
+# Quiz Notion
 <p align="center">
 Aplicação desenvolvida como desafio para responder um cronograma de estudos.
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+
+>Quiz do Cronograma de Estudos Notion
+
+
+
+![preview](./.github/cover.png)
 
 
 
@@ -22,6 +22,14 @@ Aplicação desenvolvida como desafio para responder um cronograma de estudos.
 
  Um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
 
+ ## 🔗 Deploy 
+
+👉🏼[Link do projeto](https://quiz-notion.netlify.app/)
+
+![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
 ## 🚀 Tecnologias
 
 
@@ -32,10 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 🔗 Deploy 
-
-![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 🔗 My Links
 
